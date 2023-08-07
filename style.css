@@ -14,7 +14,7 @@ body{
 }
 
 body.active{
-    background-color: #333;
+    background-color: rgb(145, 92, 145);
     transition: all 0.3s ease-in;
 }
 
