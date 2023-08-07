@@ -14,6 +14,8 @@ body{
 }
 
 body.active{
+
+    background-color: salmon;
     background-color: yelllow;
     transition: all 0.3s ease-in;
 }
@@ -48,7 +50,7 @@ body.active .carte{
 
 .carte button {
     margin-top: 20px;
-    padding: 10px;
+    padding: 20git px;
     cursor: pointer;
 }
 
