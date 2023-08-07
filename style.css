@@ -14,7 +14,9 @@ body{
 }
 
 body.active{
+
     background-color: salmon;
+    background-color: yelllow;
     transition: all 0.3s ease-in;
 }
 
